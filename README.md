@@ -1,10 +1,14 @@
 # AWS Equipment Loan System
 
-Proyek individu Komputasi Awan (Week 12: Design & AWS Setup). Sistem pencatatan peminjaman barang berupa REST API Flask yang berjalan di EC2 dan menyimpan data di RDS MySQL.
+**Bintang Khalifa Hadianto** (24/534951/TK/59312)
 
-- **Use case:** pencatatan peminjaman barang (siapa meminjam apa, kapan dipinjam, dan sudah kembali atau belum)
-- **Track:** A, Cloud VM (EC2 + RDS MySQL)
-- **Lingkungan:** AWS Academy Cloud Foundations Sandbox, region us-east-1
+Proyek individu Komputasi Awan, Week 12: Design & AWS Setup. Sistem pencatatan peminjaman barang berupa REST API Flask yang berjalan di EC2 dan menyimpan data di RDS MySQL.
+
+| | |
+| --- | --- |
+| **Use case** | Pencatatan peminjaman barang (siapa meminjam apa, kapan dipinjam, dan sudah kembali atau belum) |
+| **Track** | A, Cloud VM (EC2 + RDS MySQL) |
+| **Lingkungan** | AWS Academy Cloud Foundations Sandbox, region us-east-1 |
 
 ## Arsitektur
 
